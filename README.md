@@ -14,4 +14,5 @@ This recommendation system is implemented using Python, with key libraries inclu
 
 ## Installation
 To install the required libraries, run:
-
+```bash
+pip install streamlit matplotlib seaborn pandas scikit-learn scipy surprise
